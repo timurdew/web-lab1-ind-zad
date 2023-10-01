@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0; 
+    
+  }
+  
+  body {
+    background: #fff;
+    color: #222;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:  300;
+
+  }
+  
+
+li {
+    float:right;
+    display: inline;
+    margin-right: 50px;
+    cursor: pointer;
+    transition: opacity 500ms ease;
+  }
+
+/* .list{
+    float:right;
+    display: inline;
+    margin-right: 193px;
+    cursor: pointer;
+    transition: opacity 500ms ease;
+ } 
+   */
+  ul.nav li:hover {
+    opacity: 0.5;
+  }
+
+

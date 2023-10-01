@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/web-lab1-ind-zad/static/css/main.dd21fd70.css",
+    "main.js": "/web-lab1-ind-zad/static/js/main.98fd374d.js",
+    "static/media/bg.jpeg": "/web-lab1-ind-zad/static/media/bg.f67d8139d9334497a334.jpeg",
+    "index.html": "/web-lab1-ind-zad/index.html",
+    "main.dd21fd70.css.map": "/web-lab1-ind-zad/static/css/main.dd21fd70.css.map",
+    "main.98fd374d.js.map": "/web-lab1-ind-zad/static/js/main.98fd374d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd21fd70.css",
+    "static/js/main.98fd374d.js"
+  ]
+}
